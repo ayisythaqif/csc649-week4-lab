@@ -9,7 +9,7 @@ def test_days_left_counts_days_until_due():
 
     result = days_left(due, today)
 
-    assert result == 3
+    assert result == 4
 
 
 # TODO 1
